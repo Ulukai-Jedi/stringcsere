@@ -133,7 +133,7 @@ int main()
 	std::cout << "Kerlek ird be a keresett karaktert: ";
 	std::cin >> keresett;
 
-	std::cout << "Adj meg egy uj karaktert a keresett helyere: " << std::endl;
+	std::cout << "Adj meg egy uj karaktert a keresett helyere: ";
 	std::cin >> ujszoveg;
 
 	int meret = szoveg.length();
