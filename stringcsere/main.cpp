@@ -145,4 +145,6 @@ int main()
 		}
 	}
 	std::cout << "A keresed szerint modositott szoveg a kovetkezo: " << szoveg << std::endl;
+
+	return 0;
 }
